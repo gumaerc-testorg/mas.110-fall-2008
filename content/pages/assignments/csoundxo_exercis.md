@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: c52938fb-f763-7324-f6dc-7edf3a9f1bd1
 title: 'Exercise 3: playing with csoundxo'
 uid: 7882fb35-4a70-3a51-b148-024d1ea8f9ed

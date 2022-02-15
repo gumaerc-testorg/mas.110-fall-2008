@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: c52938fb-f763-7324-f6dc-7edf3a9f1bd1
 title: 'Exercise 5: gtk + csoundxo'
 uid: 93f0a1b5-afab-021e-f836-13fd5dc9817f

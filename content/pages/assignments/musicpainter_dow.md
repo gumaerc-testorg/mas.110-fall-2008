@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: c52938fb-f763-7324-f6dc-7edf3a9f1bd1
 title: 'MusicPainter for XO: download and instructions'
 uid: 27e326bc-0cd5-9fc7-b568-78f5d1afceca

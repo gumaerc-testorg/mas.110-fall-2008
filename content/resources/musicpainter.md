@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: MusicPainter for XO software package.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-110-fundamentals-of-computational-media-design-fall-2008/bcab23b123bf9d20bbe4c96574ea6521_Musicpainter.tar
+file: /media/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/bcab23b123bf9d20bbe4c96574ea6521_Musicpainter.tar
 file_type: application/x-tar
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: MusicPainter for XO software package
 uid: bcab23b1-23bf-9d20-bbe4-c96574ea6521
