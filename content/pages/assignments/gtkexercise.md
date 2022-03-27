@@ -12,7 +12,7 @@ uid: 93f0a1b5-afab-021e-f836-13fd5dc9817f
 
 This material is by Wu-Hsi Li. (Courtesy of Wu-Hsi Li. Used with permission.)
 
-\# Start by downloading gtkexercise.py ([PY](/courses/media-arts-and-sciences/mas-110-fundamentals-of-computational-media-design-fall-2008/assignments/gtkexercise.py))  
+\# Start by downloading gtkexercise.py ([PY]({{< baseurl >}}/resources/gtkexercise))  
 \# "cd /home/olpc/Activities/Musicpainter.activity"  
 \# We're going to borrow the csound orchestra, sound samples and  
 #     other python programs from Musicpainter, so please put gtkexercise.py  

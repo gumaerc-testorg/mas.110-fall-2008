@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c52938fb-f763-7324-f6dc-7edf3a9f1bd1
 resourcetype: Image
 title: MusicPainter screenshot
 uid: cbdcedee-0122-e8cf-b47f-990685950929

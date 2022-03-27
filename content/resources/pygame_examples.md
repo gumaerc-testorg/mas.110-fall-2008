@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c52938fb-f763-7324-f6dc-7edf3a9f1bd1
 resourcetype: Other
 title: Pygame Examples
 uid: 542695ea-fe45-2303-10cd-ce21c0e74d6e
