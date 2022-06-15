@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: c52938fb-f763-7324-f6dc-7edf3a9f1bd1
 title: 'CsoundXO: Download and Instructions'
 uid: 580501e1-fcb3-5707-178d-e2ac73d47b85
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 These instructions are provided by Wu-Hsi Li. (Courtesy of Wu-Hsi Li. Used with permission.)
@@ -20,7 +25,7 @@ CsoundXO server, CsoundXO Python API, sample sounds, sample Python programs.
 Software Download
 -----------------
 
-CsoundXO software package, by Barry Vercoe: ([TAR - 37.2 MB]({{< baseurl >}}/resources/csoundxo))
+CsoundXO software package, by Barry Vercoe: ({{% resource_link 49d393b9-28aa-936e-b8f3-c00a692bb9bc "TAR - 37.2 MB" %}})
 
 I wouldn't suggest you to download the file through Browse activity since the file management in XO is kind of tricky, but if you're interested, see [http://wiki.laptop.org/go/Journal\_Activity](http://wiki.laptop.org/go/Journal_Activity). Please download csoundxo.tar and Musicpainter.tar from your own computer, and copy to a flash disc.
 

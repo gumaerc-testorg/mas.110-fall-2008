@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,11 +9,15 @@ parent_type: CourseSection
 parent_uid: c52938fb-f763-7324-f6dc-7edf3a9f1bd1
 title: 'Exercise 5: gtk + csoundxo'
 uid: 93f0a1b5-afab-021e-f836-13fd5dc9817f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This material is by Wu-Hsi Li. (Courtesy of Wu-Hsi Li. Used with permission.)
 
-\# Start by downloading gtkexercise.py ([PY]({{< baseurl >}}/resources/gtkexercise))  
+\# Start by downloading gtkexercise.py ({{% resource_link 38f632b3-8c79-d485-00fe-8d6f0081b6e1 "PY" %}})  
 \# "cd /home/olpc/Activities/Musicpainter.activity"  
 \# We're going to borrow the csound orchestra, sound samples and  
 #     other python programs from Musicpainter, so please put gtkexercise.py  

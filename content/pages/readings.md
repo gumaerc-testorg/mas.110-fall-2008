@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides the list of required books for the course along
+  with the schedule of reading assignments by lecture.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: bccc203d-bccc-0777-b89d-c97d877d5744
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Required Books
@@ -287,7 +293,7 @@ Britt, chapters 4-5 (feel free to read further if you wish)
 Discuss sound on the XO
 {{< tdclose >}}
 {{< tdopen >}}
-Manuals for CsoundXO and CsoundXO Python (see [exercise 3]({{< baseurl >}}/pages/assignments))
+Manuals for CsoundXO and CsoundXO Python (see {{% resource_link c52938fb-f763-7324-f6dc-7edf3a9f1bd1 "exercise 3" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

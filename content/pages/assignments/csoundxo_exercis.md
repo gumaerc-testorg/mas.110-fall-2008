@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -8,11 +9,15 @@ parent_type: CourseSection
 parent_uid: c52938fb-f763-7324-f6dc-7edf3a9f1bd1
 title: 'Exercise 3: playing with csoundxo'
 uid: 7882fb35-4a70-3a51-b148-024d1ea8f9ed
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This material is by Wu-Hsi Li. (Courtesy of Wu-Hsi Li. Used with permission.)
 
-[Download the MusicPainter TAR file]({{< baseurl >}}/pages/assignments/musicpainter_dow) and expand archive to get Musicpainter.activity folder
+{{% resource_link 27e326bc-0cd5-9fc7-b568-78f5d1afceca "Download the MusicPainter TAR file" %}} and expand archive to get Musicpainter.activity folder
 
 Try the following steps, and start imagining possible design of musical games over one or multiple laptops.  
   

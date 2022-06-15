@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This section provides information on class goals, meeting times, required
+  books, the schedule of lecture topics and key dates for the course, a note on writing
+  assignments, class participation, and plagiarism policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 9b722fa4-6aeb-6ed4-f373-f3a4ddc461ac
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides information on exercises and essays, and the final
+  project assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: c52938fb-f763-7324-f6dc-7edf3a9f1bd1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Exercises
@@ -20,21 +26,21 @@ Use type/letters to convey some concept or message such that the arrangement of 
 
 Play with Python/Pygame on the XO Laptop. Take one of the example programs provided and modify it to be more "interesting."
 
-*   Pygame examples, by Henry Holtzman ([TAR]({{< baseurl >}}/resources/pygame_examples))
+*   Pygame examples, by Henry Holtzman ({{% resource_link 542695ea-fe45-2303-10cd-ce21c0e74d6e "TAR" %}})
 
 ### Exercise 3
 
-[Play with CsoundXO and MusicPainter]({{< baseurl >}}/pages/assignments/csoundxo_exercis) on the XO Laptop.
+{{% resource_link 7882fb35-4a70-3a51-b148-024d1ea8f9ed "Play with CsoundXO and MusicPainter" %}} on the XO Laptop.
 
 CsoundXO package, by Barry Vercoe:
 
-*   [Download with detailed instructions]({{< baseurl >}}/pages/assignments/csoundxo_downlo)
-*   CsoundXO Python manual ([PDF]({{< baseurl >}}/resources/csoundxo_python))
-*   CsoundXO manual (Chapter 2 "The Csound Engine") ([PDF]({{< baseurl >}}/resources/csoundxo_manual))
+*   {{% resource_link 580501e1-fcb3-5707-178d-e2ac73d47b85 "Download with detailed instructions" %}}
+*   CsoundXO Python manual ({{% resource_link b956b815-5486-7c1d-4a41-adecf4fe93e4 "PDF" %}})
+*   CsoundXO manual (Chapter 2 "The Csound Engine") ({{% resource_link b2c72366-7560-dc06-5844-25cd18d9f719 "PDF" %}})
 
 MusicPainter for XO, by Wu-Hsi Li:
 
-*   [Download with detailed instructions]({{< baseurl >}}/pages/assignments/musicpainter_dow)
+*   {{% resource_link 27e326bc-0cd5-9fc7-b568-78f5d1afceca "Download with detailed instructions" %}}
 *   [MusicPainter introduction](http://web.media.mit.edu/~wuhsi/Musicpainter_en.html)
 
 ### Exercise 4
@@ -43,7 +49,7 @@ Use any technological method or apparatus to create a visual image in the style 
 
 ### Exercise 5
 
-[gtk + csound exercise]({{< baseurl >}}/pages/assignments/gtkexercise) (in-class during Lec #24)
+{{% resource_link 93f0a1b5-afab-021e-f836-13fd5dc9817f "gtk + csound exercise" %}} (in-class during Lec #24)
 
 Essays
 ------

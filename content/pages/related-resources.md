@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section provides links to related resources on type and the One
+  Laptop Per Child (OLPC) organization.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 23b9a9d8-dced-134a-cf0d-4e84a8baf892
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Type
