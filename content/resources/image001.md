@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 MusicPainter is a networked graphical composing environment which aims to encourage sharing and collaboration between users.  It is used in class assignment #3 with the XO Laptop and csound. (Courtesy of Wu-Hsi Li. Used with permission.)
-

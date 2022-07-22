@@ -5,6 +5,7 @@ file: /courses/mas-110-fundamentals-of-computational-media-design-fall-2008/38f6
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: GTK Exercise
 uid: 38f632b3-8c79-d485-00fe-8d6f0081b6e1
 ---
 Supplement to the fifth exercise assigned for the course.
-

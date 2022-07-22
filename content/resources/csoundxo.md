@@ -5,6 +5,7 @@ file: /courses/mas-110-fundamentals-of-computational-media-design-fall-2008/49d3
 file_type: application/x-tar
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 CsoundXO software package, by Barry Vercoe.
-
