@@ -2,6 +2,7 @@
 content_type: resource
 description: Second chapter of a manual on the Csound Engine.
 file: /courses/mas-110-fundamentals-of-computational-media-design-fall-2008/b2c723667560dc06584425cd18d9f719_csoundxo_manual.pdf
+file_size: 883226
 file_type: application/pdf
 learning_resource_types:
 - Assignments
