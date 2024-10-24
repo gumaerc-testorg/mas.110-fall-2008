@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Pygame examples, by Henry Holtzman.
-file: /courses/mas-110-fundamentals-of-computational-media-design-fall-2008/542695eafe45230310cdce21c0e74d6e_pygame_examples.tar
+file: /ol-ocw-studio-app/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/542695eafe45230310cdce21c0e74d6e_pygame_examples.tar
 file_size: 20480
 file_type: application/x-tar
 learning_resource_types:
