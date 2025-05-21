@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: CsoundXO software package, by Barry Vercoe.
-file: /ol-ocw-studio-app/courses/mas-110-fundamentals-of-computational-media-design-fall-2008/49d393b928aa936eb8f3c00a692bb9bc_csoundxo.tar
+file: /courses/mas-110-fundamentals-of-computational-media-design-fall-2008/49d393b928aa936eb8f3c00a692bb9bc_csoundxo.tar
 file_size: 35342
 file_type: application/x-tar
 learning_resource_types:
