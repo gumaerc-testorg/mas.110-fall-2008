@@ -41,7 +41,7 @@ CsoundXO package, by Barry Vercoe:
 MusicPainter for XO, by Wu-Hsi Li:
 
 *   {{% resource_link 27e326bc-0cd5-9fc7-b568-78f5d1afceca "Download with detailed instructions" %}}
-*   [MusicPainter introduction](http://web.media.mit.edu/~wuhsi/Musicpainter_en.html)
+*   {{% resource_link "15f74cf6-6203-4d7e-8d23-d087eac2c140" "MusicPainter introduction" %}}
 
 ### Exercise 4
 
@@ -60,7 +60,7 @@ Write 6-8 double-spaced pages describing a technological artifact with which you
 
 ### Essay 2
 
-Write 6-8 double-spaced pages describing a painting at the Boston [Museum of Fine Arts](http://www.mfa.org/) in one of the styles discussed in Britt. Look up an image of the painting on the MFA Web site and discuss the difference in its appearance from that of the actual painting. Discuss also the difference in your personal experience of viewing the painting at the MFA with that of looking at a picture on the computer screen.
+Write 6-8 double-spaced pages describing a painting at the Boston {{% resource_link "0875435e-dedb-45fa-9514-d0c06669ec4e" "Museum of Fine Arts" %}} in one of the styles discussed in Britt. Look up an image of the painting on the MFA Web site and discuss the difference in its appearance from that of the actual painting. Discuss also the difference in your personal experience of viewing the painting at the MFA with that of looking at a picture on the computer screen.
 
 ### Essay 3
 
