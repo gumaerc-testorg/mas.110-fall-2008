@@ -94,7 +94,7 @@ Carter, chapter 1 (please bring Carter to class today)
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Video screening: {{% resource_link "0c234573-0f7c-4041-bded-bf6da346cc37" "_Helvetica_" %}} by Gary Hustwit
+Video screening: [_Helvetica_](http://www.imdb.com/title/tt0847817/) by Gary Hustwit
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -179,9 +179,9 @@ Color: physics, psychophysics, and aesthetics
 
 Britt, chapter 1
 
-Jacobson, N., and W. Bender. "{{% resource_link "0211bc53-2ac2-4685-8b49-2944ca724c6c" "Color as a Determined Communication" %}}."
+Jacobson, N., and W. Bender. "[Color as a Determined Communication](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5387199)."
 
-Explore {{% resource_link "563c4522-7070-4b34-abaa-add69650e5f0" "Apple Computer's color pages" %}}
+Explore [Apple Computer's color pages](http://web.archive.org/web/20101220202550/http://www.apple.com/pro/color/)
 
 
 {{< tdclose >}}
@@ -210,7 +210,7 @@ Guest lecturer: Walter Bender
 
 Color: physics, psychophysics, and aesthetics (cont.)
 
-Discuss {{% resource_link "ba310e93-7f19-4f42-9753-fc5f04d652ad" "OLPC XO" %}} (One Laptop Per Child) hardware and the {{% resource_link "7ac42eab-2a97-4749-a1c6-35d5af750df0" "Sugar environment" %}}
+Discuss [OLPC XO](http://www.laptop.org/) (One Laptop Per Child) hardware and the [Sugar environment](http://wiki.laptop.org/go/Category:Sugar)
 
 
 {{< tdclose >}}
